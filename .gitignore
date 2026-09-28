@@ -46,6 +46,7 @@ __pycache__/
 *.class
 venv/
 .env
-backend/data/
+backend/data/*
+!backend/data/*.py
 backend/exports/
 backend/uploads/

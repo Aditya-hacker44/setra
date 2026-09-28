@@ -1,3 +1,4 @@
+from typing import Dict, Any, List, Optional
 from .dem_processor import DEMProcessor
 from .vector_processor import VectorProcessor
 from .projection import detect_crs, get_optimal_model_crs
